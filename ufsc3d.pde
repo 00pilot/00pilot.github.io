@@ -30,7 +30,8 @@ final String[] files = {
   "MOTH_4.bmp",
   "MUL.bmp",
   "POINT.bmp",
-  "RELOCK.bmp"
+  "RELOCK.bmp",
+  "silly_colors.bmp"
 };
 
 final int FILE_LIST_COLUMNS = 3;
