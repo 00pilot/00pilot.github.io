@@ -31,7 +31,8 @@ final String[] files = {
   "MUL.bmp",
   "POINT.bmp",
   "RELOCK.bmp",
-  "silly_colors.bmp"
+  "silly_colors.bmp",
+  "teapot.bmp"
 };
 
 final int FILE_LIST_COLUMNS = 3;
