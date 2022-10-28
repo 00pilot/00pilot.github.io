@@ -36,7 +36,8 @@ final String[] files = {
   "teapot1.bmp",
   "589-3224.bmp",
   "object.bmp",
-  "object1.bmp"
+  "object1.bmp",
+  "object2.bmp"
 };
 
 final int FILE_LIST_COLUMNS = 3;
